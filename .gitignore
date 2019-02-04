@@ -2,3 +2,4 @@
 /config
 package-lock.json
 .eslintrc.jsonnode_modules/
+node_modules/
